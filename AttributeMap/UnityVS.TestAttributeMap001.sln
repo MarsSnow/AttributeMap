@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TestAttributeMap001.CSharp", "UnityVS.TestAttributeMap001.CSharp.csproj", "{42010930-0DDB-BF50-B9C7-8DED80935F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TestAttributeMap001.CSharp.Editor", "UnityVS.TestAttributeMap001.CSharp.Editor.csproj", "{B8CF8E59-2A68-BF2A-9DC0-5CAD487DFAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42010930-0DDB-BF50-B9C7-8DED80935F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42010930-0DDB-BF50-B9C7-8DED80935F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42010930-0DDB-BF50-B9C7-8DED80935F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42010930-0DDB-BF50-B9C7-8DED80935F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CF8E59-2A68-BF2A-9DC0-5CAD487DFAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CF8E59-2A68-BF2A-9DC0-5CAD487DFAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CF8E59-2A68-BF2A-9DC0-5CAD487DFAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CF8E59-2A68-BF2A-9DC0-5CAD487DFAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
